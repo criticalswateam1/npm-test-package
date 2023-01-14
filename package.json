@@ -1,0 +1,22 @@
+{
+  "name": "@devx11/my-test-package",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/criticalswateam1/npm-test-package.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/criticalswateam1/npm-test-package/issues"
+  },
+  "homepage": "https://github.com/criticalswateam1/npm-test-package#readme",
+  "description": "",
+  "dependencies": {
+    "@devx11/my-test-package": "^1.0.0"
+  }
+}
